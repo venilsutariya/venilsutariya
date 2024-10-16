@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Venil Sutariya
+# Hi, I'm Venil Sutariya 👋
 
-🚀 **Full-Stack Developer**
+## Full-Stack Developer
 
-Experienced developer specializing in scalable, secure web applications
-
---
+#### Experienced developer specializing in scalable, secure web applications
 
 ## Skills
 
@@ -24,7 +22,7 @@ Experienced developer specializing in scalable, secure web applications
 - **Cloud**: AWS (Lambda, S3), Cloudflare Workers
 - **Tools**: Docker, Kubernetes, Git, Webpack
 
---
+
 
 ## 🔗 Let's Connect
 - **Portfolio**: [venil.vercel.app](https://venil.vercel.app)
