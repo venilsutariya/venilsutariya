@@ -15,7 +15,7 @@
 - **Languages**: Node.js, TypeScript
 - **Frameworks**: Express.js, Nest.js
 - **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
-- **Authentication**: JWT, OAuth, 2FA (Google Authenticator, TOTP)
+- **Authentication**: JWT, OAuth, 2FA
 
 ### DevOps & Cloud
 - **CI/CD**: GitHub Actions, Vercel
