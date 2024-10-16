@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Venil Sutariya
 
-🚀 **Full-Stack Developer** | Crafting scalable, secure, and efficient web applications.
+🚀 **Full-Stack Developer**
 
-I specialize in modern web technologies like **React**, **Next.js**, and **Node.js**, focusing on delivering high-performance, responsive, and visually engaging user experiences.
+Experienced developer specializing in scalable, secure web applications
 
----
+--
 
-## 🛠️ Tech Stack
+## Skills
 
 ### Frontend
 - **Languages**: TypeScript, JavaScript (ES6+)
@@ -24,23 +24,12 @@ I specialize in modern web technologies like **React**, **Next.js**, and **Node.
 - **Cloud**: AWS (Lambda, S3), Cloudflare Workers
 - **Tools**: Docker, Kubernetes, Git, Webpack
 
----
-
-## 🔒 Security-Focused Development
-I integrate security best practices like **2FA** (Two-Factor Authentication), **OAuth**, and data encryption into all projects.
-
----
-
-## 💼 Featured Work
-- **Portfolio**: [venil.vercel.app](https://venil.vercel.app)
-- **Interactive Animations**: Using **Framer Motion** and **GSAP** for seamless UI animations.
-- **3D Graphics**: Developed engaging visual experiences using **Three.js**.
-
----
+--
 
 ## 🔗 Let's Connect
-- 💼 **LinkedIn**: [Venil Sutariya](https://www.linkedin.com/in/venil-sutariya-a6b27b228/)
-- 🐦 **Twitter**: [@SutariyaVenil](https://x.com/SutariyaVenil)
-- 📧 **Email**: [venilsutariya7@gmail.com](mailto:venilsutariya7@gmail.com)
+- **Portfolio**: [venil.vercel.app](https://venil.vercel.app)
+- **LinkedIn**: [Venil Sutariya](https://www.linkedin.com/in/venil-sutariya-a6b27b228/)
+- **Twitter**: [@SutariyaVenil](https://x.com/SutariyaVenil)
+- **Email**: [venilsutariya7@gmail.com](mailto:venilsutariya7@gmail.com)
 
 📫 **Reach out** for collaboration or new opportunities!
