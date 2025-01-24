@@ -1,8 +1,5 @@
 # Hi, I'm Venil Sutariya 👋
 
-## Full-Stack Developer
-
-#### Experienced developer specializing in scalable, secure web applications
 <div align="center">
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://venil.vercel.app/)
