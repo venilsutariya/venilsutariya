@@ -40,5 +40,5 @@ I specialize in designing and building efficient, scalable web applications and 
 
 ---
 
-![Venil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venilsutariya&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venilsutariya&layout=compact&theme=default)
+![Venil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venilsutariya&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venilsutariya&layout=compact&theme=dark)
